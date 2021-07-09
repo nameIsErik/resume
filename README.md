@@ -1,2 +1,2 @@
-# resume
-iOS Developer resume Kokaev Erik
+# Junior iOS Developer resume Kokaev Erik
+
